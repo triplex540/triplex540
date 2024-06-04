@@ -1,11 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Gabrielle E. Dela Cruz</h1>
-<h3 align="justify">I'm currently an undergraduate student enrolled in BSCpE at Technological Institute of the Philippines QC and this is my Github account for all things programming under the course of CPE311 - Computational Thinking with Python. Lots of my programming files remain not shared in this platform. Finally, a man of no consequence. not all are worthy to take a glim</h3>
-
-- 🌱 I’m currently learning **about Data Science, under CPE311 - Computational Thinking with Python.**
-
-- 💬 Ask me about **anything that comes into mind, I may be able to give my own answer.**
-
-- 📫 How to reach me **by gabrielledelacruz540@gmail.com (which I barely visit)**
+<h1 align="center">Hello there 👋</h1>
+<h3 align="justify">A student under CPE311, pursuing BSCpE in TIPQC. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
